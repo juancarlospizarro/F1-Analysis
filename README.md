@@ -25,3 +25,7 @@ This is a project in which I perform cleaning and transformation of a dataset re
 · *Microsoft Power Query*
 
 Below, I attach the different finalized dashboards in Microsoft Power BI.
+
+
+![Constructor's Dashboard](/dashboards/constructors.png)
+
