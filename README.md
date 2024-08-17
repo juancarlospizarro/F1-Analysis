@@ -29,3 +29,5 @@ Below, I attach the different finalized dashboards in Microsoft Power BI.
 
 ![Constructor's Dashboard](/dashboards/constructors.png)
 
+![Constructor's Dashboard](/dashboards/drivers.png)
+
